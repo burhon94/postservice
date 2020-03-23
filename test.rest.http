@@ -1,0 +1,39 @@
+GET http://localhost:7777/api/health
+
+###
+
+GET http://localhost:7777/api/post/1
+
+###
+
+GET http://localhost:7777/api/posts
+
+###
+
+GET http://localhost:7777/api/posts/movies
+
+###
+
+GET http://localhost:7777/api/posts/games
+
+###
+
+GET http://localhost:7777/api/posts/programmes
+
+###
+
+GET http://localhost:7777/api/posts/musics
+
+###
+
+POST http://localhost:7777/api/post/0
+Content-Type: application/json
+
+{
+  "title": "restPostTitle",
+  "poster": "restPostPoster",
+  "category": "restPostCategory",
+  "file_url": "restPostFileUrl"
+}
+
+###
