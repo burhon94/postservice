@@ -21,7 +21,7 @@ VALUES ('Steam Gamer', '2020-03-20 10:24:05.000000',
         'http://localhost:20000/web/media/dc4e5a17-8dc8-4dd8-bd0b-33de5b3148b4.jpg', 'prog',
         'http://localhost:20000/web/media/e72f07d1-611e-444c-9f5f-4d04212f286e.exe'),
        ('Grand theft Auto San Andreas',
-        '2020-03-20 10:23:58.000000', 'http://localhost:20000/web/media/02d60565-e2de-470e-ab67-a6f6b28387f6.png',
+        '2020-03-20 10:23:58.000000', 'http://localhost:20000/web/media/02d60565-e2de-470e-ab67-a6f6b28387f6.jpg',
         'game', 'http://localhost:20000/web/media/51548f13-797d-4de7-ba8d-5ad28886687d.exe'),
 
        ('X Plane Tutorial',
